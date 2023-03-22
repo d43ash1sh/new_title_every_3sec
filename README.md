@@ -27,7 +27,7 @@ If you'd like to contribute to this project, please fork the repository and make
 
 ## Credits
 
-This project was created by [[DEBASHISH BORDOLOI](https://twitter.com/d43a_io)] (https://twitter.com/d43a_io)
+This project was created by DEBASHISH BORDOLOI
 
 ## License
 
